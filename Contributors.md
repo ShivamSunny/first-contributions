@@ -1,6 +1,6 @@
 # Contributors
 
--[Shivam Raj](https://github.com/ShivamSunny).
+-[Shivam Raj](https://github.com/ShivamSunny)
 - [Itha Ramakrishna](https://github.com/Ivsrk/)
 - [Rahul](https://github.com/Rahulsrini)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
